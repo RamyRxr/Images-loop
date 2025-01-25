@@ -123,9 +123,12 @@ body{
     position: absolute;
     bottom: 0;
     left: -60px;
-    
+    background-image: url(./Images/samurai-closeup.webp);
+    background-repeat: no-repeat;
+    background-position: top center;
     z-index: 1;
 }
+
 
 @media screen and (max-width: 1023px) {
     
@@ -161,5 +164,9 @@ body{
     
     .banner .content h1{
         font-size: 5em;
+    }
+
+    .banner .content .model {
+        left: -20px;
     }
 }
