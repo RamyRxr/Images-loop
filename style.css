@@ -123,9 +123,7 @@ body{
     position: absolute;
     bottom: 0;
     left: -60px;
-    background-size: auto 130%;
-    background-repeat: no-repeat;
-    background-position: top center;
+    
     z-index: 1;
 }
 
