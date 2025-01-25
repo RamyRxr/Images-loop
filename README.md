@@ -1,6 +1,6 @@
-# 3D Image Slider
+# Images Loop
 
-A visually stunning 3D Image Slider that showcases images with dynamic scaling and circular rotation. Built with HTML and CSS, this project demonstrates the use of modern styling techniques to create an engaging user experience.
+A visually stunning Images Loop that showcases images with dynamic scaling and circular rotation. Built with HTML and CSS, this project demonstrates the use of modern styling techniques to create an engaging user experience.
 
 🌐 **Live Demo**  
 [View the project here](https://ramyrxr.github.io/3D-Image-Slider/)
@@ -25,5 +25,5 @@ A visually stunning 3D Image Slider that showcases images with dynamic scaling a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RamyRxr/3D-Image-Slider.git
+git clone https://github.com/RamyRxr/Images-loop.git
 
