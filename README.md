@@ -3,8 +3,8 @@
 A visually stunning Images Loop that showcases images with dynamic scaling and circular rotation. Built with HTML and CSS, this project demonstrates the use of modern styling techniques to create an engaging user experience.
 
 🌐 **Live Demo**  
-[View the project here](images-loop.vercel.app)
 
+images-loop.vercel.app
 ---
 
 ## ✨ Features
