@@ -118,12 +118,12 @@ body{
 }
 
 .banner .content .model{
-    background-image: url(images/Samurai-1.png);
+    background-image: url(Images/samurai-closeup.webp);
     width: 100%;
     height: 75vh;
     position: absolute;
     bottom: 0;
-    left: 0;
+    left: -60px;
     background-size: auto 130%;
     background-repeat: no-repeat;
     background-position: top center;
