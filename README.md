@@ -4,7 +4,7 @@ A visually stunning Images Loop that showcases images with dynamic scaling and c
 
 🌐 **Live Demo**  
 
-[images-loop.vercel.app](https://images-loop.vercel.app/)
+[View the project here](https://images-loop.vercel.app/)
 ---
 
 ## ✨ Features
