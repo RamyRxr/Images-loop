@@ -7,8 +7,8 @@
     box-sizing: border-box;
 }
 
-body{
-    background-image: url(./Images/Back-ground-1.webp);
+body {
+    background-image: url('./Images/Back-ground-1.webp');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -20,7 +20,7 @@ body{
     from {
         transform: perspective(1000px) rotateX(-16deg) rotateY(0deg);
     }
-    to{
+    to {
         transform: perspective(1000px) rotateX(-16deg) rotateY(360deg);
     }
 }
@@ -38,7 +38,7 @@ body{
     width: 150px;
     height: 200px;
     top: 10%;
-    left: calc(50% - 100px);
+    left: calc(50% - 75px); /* Adjusted for centering */
     transform-style: preserve-3d;
     transform: perspective(1000px);
     animation: autoRun 20s linear infinite;
